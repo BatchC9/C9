@@ -9,7 +9,12 @@ step1:  Open Anaconda Prompt and change the directory in which the project files
 step2: Enter the main source code file firenet.py   as follows
 
 D:
+Hit enter
+
 CD/Project
+ 
+Hit enter
+
 Python_Firenet.py/Modals/test.mp4
 
 step3: In the above lines test.mp4 (video) 
