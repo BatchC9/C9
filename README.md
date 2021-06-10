@@ -19,9 +19,9 @@ step4: Hit enter it  will starts identify the input
 
 step5: A video will be loaded in the Anaconda Prompt
 
-step: Open the Firebase Console which is a Realtime Database  using the Gmail account
+step6: Open the Firebase Console which is a Realtime Database  using the Gmail account
 
-step6: In the Database the status will be updated as well as the notification will be sent to the installed User's Android Mobile APP called FIRE DETECTION
+step7: In the Database the status will be updated as well as the notification will be sent to the installed User's Android Mobile APP called FIRE DETECTION
 
 Summary:
  We are passing the video as a input to the model which will classify  the  fire and non-fire regions using CNN algorithm 
