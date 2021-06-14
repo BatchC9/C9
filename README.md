@@ -15,7 +15,7 @@ CD/Project
  
 Hit enter
 
-Python_Firenet.py/Modals/test.mp4
+Python_Firenet.py/Models/test.mp4
 
 step3: In the above lines test.mp4 (video) 
  which is actually the input, we are just passing the input to the  Trained Modal 
